@@ -9,7 +9,7 @@
 [![Python: 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-End-to-end Python toolbox for analysing **Quasi-Elastic Neutron Scattering**
+End to end Python toolbox for analysing **Quasi-Elastic Neutron Scattering**
 data from ISIS Mantid `.nxspe` files (IRIS, OSIRIS, LET, MARI, MAPS, …) and
 any other Mantid-produced inelastic-spectrometer output.
 
