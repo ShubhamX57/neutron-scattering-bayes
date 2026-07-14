@@ -2,6 +2,8 @@
 Inference primitives: likelihood, prior, MAP search, plus utilities to bin
 the data and build per Q bin resolution kernels.
 
+add 
+
 """
 from __future__ import annotations
 
