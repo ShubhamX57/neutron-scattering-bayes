@@ -82,5 +82,5 @@ __all__ = ["__version__",
            "log_likelihood", "log_prior", "log_posterior", "find_map",
            # sampling
            "run_mcmc", "summarise", "summarise_samples", "gelman_rubin",
-           # plotting
+           
            "plotting"]
