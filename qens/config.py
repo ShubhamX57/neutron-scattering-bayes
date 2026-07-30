@@ -4,7 +4,6 @@ Configuration dataclass, runtime parameters for the QENS analysis pipeline.
 Holds every tunable knob in one place: file lists, Q range, energy window,
 binning, MCMC settings and output directory. 
 
-Save/restore as JSON for reuse.
 
 """
 from __future__ import annotations
