@@ -32,8 +32,8 @@ class Config:
         Which of the loaded files is the *target* spectrum to fit.
 
     resolution_file : str | None
-        Frozen-sample file used as resolution function. If None, the loader
-        auto-picks any T ≤ ``frozen_temp_threshold`` incoherent file.
+        Frozen sample file used as resolution function. If None, the loader
+        auto picks any T ≤ ``frozen_temp_threshold`` incoherent file.
 
     frozen_temp_threshold : int
         Files at T ≤ this temperature (K) are treated as resolution refs.
